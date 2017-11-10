@@ -60,7 +60,7 @@ var changeColor = function () {
 var boom = function () {
   containerBombIt.removeChild(bombIt);
   containerBombIt.innerHTML =
-    "<img src= 'https://media.giphy.com/media/3osxYCsLd9qgsgqpwI/giphy.gif' altt='BOMB!'>";
+    "<img src= 'http://25.media.tumblr.com/tumblr_m8997drXni1r8kziuo1_250.gif'>";
   addBtnRestart();
 };
 
